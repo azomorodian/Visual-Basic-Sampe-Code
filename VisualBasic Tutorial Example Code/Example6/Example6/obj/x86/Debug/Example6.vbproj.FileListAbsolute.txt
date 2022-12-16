@@ -1,0 +1,11 @@
+c:\users\pch\documents\visual studio 2010\Projects\Example6\Example6\bin\Debug\Example6.exe
+c:\users\pch\documents\visual studio 2010\Projects\Example6\Example6\bin\Debug\Example6.pdb
+c:\users\pch\documents\visual studio 2010\Projects\Example6\Example6\bin\Debug\Example6.xml
+c:\users\pch\documents\visual studio 2010\Projects\Example6\Example6\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pch\documents\visual studio 2010\Projects\Example6\Example6\obj\x86\Debug\Example6.Form1.resources
+c:\users\pch\documents\visual studio 2010\Projects\Example6\Example6\obj\x86\Debug\Example6.Resources.resources
+c:\users\pch\documents\visual studio 2010\Projects\Example6\Example6\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\pch\documents\visual studio 2010\Projects\Example6\Example6\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\pch\documents\visual studio 2010\Projects\Example6\Example6\obj\x86\Debug\Example6.exe
+c:\users\pch\documents\visual studio 2010\Projects\Example6\Example6\obj\x86\Debug\Example6.xml
+c:\users\pch\documents\visual studio 2010\Projects\Example6\Example6\obj\x86\Debug\Example6.pdb

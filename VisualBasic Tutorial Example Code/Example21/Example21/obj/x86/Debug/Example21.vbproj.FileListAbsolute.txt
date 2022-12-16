@@ -1,0 +1,11 @@
+C:\Users\PCH\Desktop\Example Code\Example21\Example21\bin\Debug\Example21.exe
+C:\Users\PCH\Desktop\Example Code\Example21\Example21\bin\Debug\Example21.pdb
+C:\Users\PCH\Desktop\Example Code\Example21\Example21\bin\Debug\Example21.xml
+C:\Users\PCH\Desktop\Example Code\Example21\Example21\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PCH\Desktop\Example Code\Example21\Example21\obj\x86\Debug\Example21.Form1.resources
+C:\Users\PCH\Desktop\Example Code\Example21\Example21\obj\x86\Debug\Example21.Resources.resources
+C:\Users\PCH\Desktop\Example Code\Example21\Example21\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PCH\Desktop\Example Code\Example21\Example21\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\PCH\Desktop\Example Code\Example21\Example21\obj\x86\Debug\Example21.exe
+C:\Users\PCH\Desktop\Example Code\Example21\Example21\obj\x86\Debug\Example21.xml
+C:\Users\PCH\Desktop\Example Code\Example21\Example21\obj\x86\Debug\Example21.pdb
